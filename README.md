@@ -1,3 +1,5 @@
+![Ferris Pushing Weights](ferris.webp)
+
 ## Colosseum Gym August 2024
 
 Solana's Radar Hackathon Prep: [Colosseum Radar](https://www.colosseum.org/)
