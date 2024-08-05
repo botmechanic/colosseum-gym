@@ -6,7 +6,7 @@ Solana's Radar Hackathon Prep: [Colosseum Radar](https://www.colosseum.org/)
 
 ### Length
 
-Gym will start on Monday August 5th 2024 and will conclude on September 1st 2024 (The day before hackathon starts)
+Gym will start on Monday August 5th 2024 and will conclude on Sunday September 1st 2024 (The day before hackathon starts)
 
 ### Content
 
@@ -15,7 +15,7 @@ Gym will start on Monday August 5th 2024 and will conclude on September 1st 2024
 
 ### Rust
 
-We will only cover 8 chapters! The rest you can pick up as you go, especially [Lifetime](https://doc.rust-lang.org/book/ch10-00-generics.html).
+We will only cover 8 chapters! The rest you can pick up as you go, especially [Lifetimes](https://doc.rust-lang.org/book/ch10-00-generics.html).
 
 - Chapter 1: [Getting Started](https://doc.rust-lang.org/book/ch01-00-getting-started.html)
 - Chapter 3: [Common Programming Concepts](https://doc.rust-lang.org/book/ch03-00-common-programming-concepts.html)
