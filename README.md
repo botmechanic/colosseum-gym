@@ -14,6 +14,25 @@ Gym will start on Monday August 5th 2024 and will conclude on Sunday September 1
 - 2 weeks\* of [Rust](https://doc.rust-lang.org/book/title-page.html)
 - 2 weeks\* of [Anchor](https://www.anchor-lang.com/) + [Solana](https://solana.com/developers)
 
+### Installfest
+
+#### Rust
+
+- Link: [Installing Rust](https://www.rust-lang.org/learn/get-started)
+- Commmand:
+
+```shell
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+```
+
+#### Visual Studio Code
+
+- Please download and install Visual Studio Code [https://code.visualstudio.com/](https://code.visualstudio.com/)
+
+- Video Guide:
+  [IDE Setup For Rust Development](https://youtu.be/x_iZEK6Rww4?si=DDKNaHHPd1E7G7t3)
+  [![IDE Setup For Rust Development](https://img.youtube.com/vi/x_iZEK6Rww4/0.jpg)](https://www.youtube.com/watch?v=x_iZEK6Rww4)
+
 ### Rust
 
 We will only cover 8 chapters! The rest you can pick up as you go, especially [Lifetimes](https://doc.rust-lang.org/book/ch10-00-generics.html).
