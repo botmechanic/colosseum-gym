@@ -10,8 +10,8 @@ Gym will start on Monday August 5th 2024 and will conclude on September 1st 2024
 
 ### Content
 
-- Roughly 2 weeks of [Rust](https://doc.rust-lang.org/book/title-page.html)
-- Roughly 2 weeks of [Anchor](https://www.anchor-lang.com/) + [Solana](https://solana.com/developers)
+- 2 weeks\* of [Rust](https://doc.rust-lang.org/book/title-page.html)
+- 2 weeks\* of [Anchor](https://www.anchor-lang.com/) + [Solana](https://solana.com/developers)
 
 ### Rust
 
