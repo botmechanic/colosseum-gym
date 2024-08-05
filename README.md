@@ -1,4 +1,4 @@
-![Ferris Pushing Weights](ferris.webp)
+![Ferris Pushing Weights](ferris.png)
 
 ## Colosseum Gym August 2024
 
