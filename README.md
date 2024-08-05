@@ -2,7 +2,8 @@
 
 ## Colosseum Gym August 2024
 
-Solana's Radar Hackathon Prep: [Colosseum](https://www.colosseum.org/) from October 2 at 12:00 AM PDT to October 8 at 11:59 PM PDT
+- Solana's Radar Hackathon Prep: [Colosseum](https://www.colosseum.org/)
+- Hackathon submissions open from October 2 at 12:00 AM PDT to October 8 at 11:59 PM PDT
 
 ### Length
 
